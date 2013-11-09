@@ -12,3 +12,8 @@ LICENSE
 =======
 
 This scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
+
+INFO
+====
+
+http://chernowii.com
