@@ -13,6 +13,12 @@ LICENSE
 
 This scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
 
+SEE ALSO
+========
+
+commands.md, a list of RTOS commands
+index.md, a list of files avaible in this repo.
+
 INFO
 ====
 
