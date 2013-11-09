@@ -16,9 +16,9 @@ This scripts can be modified, remixed, tweaked and redistributed :) Feel free to
 SEE ALSO
 ========
 
-commands.md, a list of RTOS commands
+https://github.com/KonradIT/autoexechack/blob/master/commands.md, a list of RTOS commands
 
-index.md, a list of files avaible in this repo.
+https://github.com/KonradIT/autoexechack/blob/master/index.md, a list of files avaible in this repo.
 
 INFO
 ====
