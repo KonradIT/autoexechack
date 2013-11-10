@@ -3,6 +3,9 @@ autoexec hack
 
 YEAH! Lets hack GoPro cameras using autoexec!
 
+NOTE: ONLY FOR HERO3 BLACK CAMERAS
+----------------------------------
+
 Instructions:
 =============
 Using a proper text editor (notepad?), experiment with commands avaible in this repository to tell the camera what to do.
