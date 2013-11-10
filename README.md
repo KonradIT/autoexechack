@@ -14,7 +14,9 @@ Save the file as "autoexec.ash" (.ash ending!)
 SEE ALSO:
 ========
 [INDEX OF FILES](https://github.com/KonradIT/autoexechack/blob/GoPro/index.md)
+
 [GoPro RTOS Commands](https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md)
+
 [TESTING COMMANDS](https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md)
 
 LICENSE
