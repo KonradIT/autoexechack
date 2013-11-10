@@ -6,7 +6,7 @@ sleep 6
 t app appmode video
 sleep 3
 t app button shutter PR
-sleep 20
+sleep 30
 t app button shutter PR
 sleep 3
 t app appmode photo
