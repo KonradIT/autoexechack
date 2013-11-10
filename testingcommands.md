@@ -7,7 +7,7 @@ WARNING!!!
 This commands are in beta testing, use them on your own risk!
 
 TEST COMMANDS
-—————————————
+-------------
 
         rdau
         wrau
