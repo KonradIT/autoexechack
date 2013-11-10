@@ -13,14 +13,17 @@ Save the file as "autoexec.ash" (.ash ending!)
 
 SEE ALSO:
 ========
-https://github.com/KonradIT/autoexechack/blob/GoPro/index.md INDEX OF FILES
-https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md GoPro RTOS Commands
-https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md TESTING COMMANDS
+[INDEX OF FILES](https://github.com/KonradIT/autoexechack/blob/GoPro/index.md)
+[GoPro RTOS Commands](https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md)
+[TESTING COMMANDS](https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md)
 
 LICENSE
 =======
 
 This scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
+
+Branches
+--------
 
 The Default branch of this repo is "GoPro".
 
