@@ -11,6 +11,11 @@ Instructions:
 Using a proper text editor (notepad?), experiment with commands avaible in this repository to tell the camera what to do.
 Save the file as "autoexec.ash" (.ash ending!)
 
+SEE ALSO:
+========
+https://github.com/KonradIT/autoexechack/blob/GoPro/index.md INDEX
+https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md GoPro RTOS Commands
+
 LICENSE
 =======
 
