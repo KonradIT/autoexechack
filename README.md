@@ -27,6 +27,8 @@ SEE ALSO:
 
 [TESTING COMMANDS](https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md)
 
+[HERO3+ BLACK CODING STYLE](https://github.com/KonradIT/autoexechack/blob/GoPro/)
+
 LICENSE
 =======
 
