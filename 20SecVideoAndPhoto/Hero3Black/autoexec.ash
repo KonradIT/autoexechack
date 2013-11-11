@@ -1,4 +1,4 @@
-sleep 5
+sleep 3
 t app appmode video
 sleep 3
 t app button shutter PR
