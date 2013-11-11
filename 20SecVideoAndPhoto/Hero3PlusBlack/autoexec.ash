@@ -8,4 +8,3 @@ sleep 3
 t app appmode photo
 sleep 2
 t app button shutter PR
-reboot yes

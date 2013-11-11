@@ -16,4 +16,4 @@ sleep 10
 t app led red_front off
 sleep 5
 t app button shutter PR
-reboot yes
+
