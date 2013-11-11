@@ -1,6 +1,8 @@
 autoexec hack
 ============
 
+![HERO4](lightning.png)
+
 YEAH! Lets hack GoPro cameras using autoexec!
 
 NOTE: ONLY FOR HERO3 BLACK AND HERO3+ BLACK CAMERAS (HERO3+ BLACK ON DEV STAGE)
