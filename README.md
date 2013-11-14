@@ -11,13 +11,13 @@ USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN
 
 USING AUTOEXEC
 ===============
-Download the hacks avaible here.
-Use the guides to build your own hacks.
-[Contact me](mailto:mail@chernowii.com) if you want a custom script.
+*Download the hacks avaible here.
+*Use the guides to build your own hacks.
+*[Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
 HERO3 Black and HERO3+ Black
 =============================
-Every folder has a "Hero3Black" subfolder, where the file for the Hero3Black camera is, and a "Hero3PlusBlack" subfolder, where the file for the Hero3+Black camera is.
+Every folder has a “Hero3Black“ subfolder, where the file for the Hero3Black camera is, and a “Hero3PlusBlack“ subfolder, where the file for the Hero3+Black camera is.
 
 SEE ALSO:
 ========
@@ -37,9 +37,9 @@ This scripts can be modified, remixed, tweaked and redistributed :) Feel free to
 Branches
 --------
 
-The Default branch of this repo is "GoPro".
+The Default branch of this repo is “GoPro“.
 
 INFO
 ====
 
-http://chernowii.com
+“[Chernowii.com](http://chernowii.com)“
