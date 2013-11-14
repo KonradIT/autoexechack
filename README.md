@@ -9,11 +9,11 @@ NOTE: ONLY FOR HERO3 BLACK AND HERO3+ BLACK CAMERAS (HERO3+ BLACK ON DEV STAGE)
 
 USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN TO YOUR CAMERA!!!
 
-Instructions:
-=============
-Using a proper text editor (notepad?), experiment with commands avaible in this repository to tell the camera what to do.
-Save the file as "autoexec.ash" (.ash ending!)
-Or use the templates.
+USING AUTOEXEC
+===============
+Download the hacks avaible here.
+Use the guides to build your own hacks.
+[Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
 HERO3 Black and HERO3+ Black
 =============================
