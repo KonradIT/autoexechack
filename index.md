@@ -18,3 +18,5 @@ INDEX
 -ContinuousPhotoHacks: Continuous Photo mode hacks.
 
 -20SecVideoAndPhoto: record 20 secs of video, the take a pic.
+
+-20SecVideoInfiniteLoop
