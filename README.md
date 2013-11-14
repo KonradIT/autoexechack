@@ -11,23 +11,23 @@ USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN
 
 USING AUTOEXEC
 ===============
-*Download the hacks avaible here.
-*Use the guides to build your own hacks.
-*[Contact me](mailto:mail@chernowii.com) if you want a custom script.
+* Download the hacks avaible here.
+* Use the guides to build your own hacks.
+* [Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
 HERO3 Black and HERO3+ Black
 =============================
-Every folder has a “Hero3Black“ subfolder, where the file for the Hero3Black camera is, and a “Hero3PlusBlack“ subfolder, where the file for the Hero3+Black camera is.
+Every folder has a `Hero3Black` subfolder, where the file for the Hero3Black camera is, and a `Hero3BlackPlus` subfolder, where the file for the Hero3+Black camera is.
 
 SEE ALSO:
 ========
-[INDEX OF FILES](https://github.com/KonradIT/autoexechack/blob/GoPro/index.md)
+* [INDEX OF FILES](https://github.com/KonradIT/autoexechack/blob/GoPro/index.md)
 
-[GoPro RTOS Commands](https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md)
+* [GoPro RTOS Commands](https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md)
 
-[TESTING COMMANDS](https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md)
+* [TESTING COMMANDS](https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md)
 
-[HERO3+ BLACK CODING STYLE](https://github.com/KonradIT/autoexechack/blob/GoPro/hero3plusblack_coding_style.md)
+* [HERO3+ BLACK CODING STYLE](https://github.com/KonradIT/autoexechack/blob/GoPro/hero3plusblack_coding_style.md)
 
 LICENSE
 =======
@@ -42,4 +42,4 @@ The Default branch of this repo is “GoPro“.
 INFO
 ====
 
-“[Chernowii.com](http://chernowii.com)“
+[Chernowii.com](http://chernowii.com)
