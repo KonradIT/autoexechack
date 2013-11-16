@@ -20,3 +20,9 @@ INDEX
 -20SecVideoAndPhoto: record 20 secs of video, the take a pic.
 
 -20SecVideoInfiniteLoop: 20 secs again, and again, and again
+
+-LED-Dance: Blinking leds
+
+-TextOnLCD: Custom text on LCD
+
+-XTimeAndDeleteAll: X secs and delete all
