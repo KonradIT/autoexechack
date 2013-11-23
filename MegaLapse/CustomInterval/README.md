@@ -6,7 +6,7 @@ MegaLapse Custom
 * The table below will help you
 
 TABLE
-—————
+------
 
 * 2 min = 120 secs
 * 3 min = 180 secs
