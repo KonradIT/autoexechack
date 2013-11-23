@@ -21,7 +21,6 @@ Every folder has a `Hero3Black` subfolder, where the file for the Hero3Black cam
 
 SEE ALSO:
 ========
-* [INDEX OF FILES](https://github.com/KonradIT/autoexechack/blob/GoPro/index.md)
 
 * [GoPro RTOS Commands](https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md)
 
