@@ -20,6 +20,7 @@ Info:
 
 [MegaLapse webpage](http://chernowii.com/megalapse)
 
+Get in touch: [MAIL ME](mailto:mail@chernowii.com)
 Thanks
 -------
 
