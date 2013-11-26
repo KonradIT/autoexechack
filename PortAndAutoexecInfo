@@ -10,6 +10,8 @@ i found these in all firmware bin files for all cameras.
 * e:\autoexec.ash
 * f:\autoexec.ash
 * g:\autoexec.ash
+* l:\autoexec.ash
+* z:\autoexec.ash
 
 Now, here comes the surprise:
 
@@ -20,3 +22,13 @@ Now, here comes the surprise:
 * e:\autoexec.tcl
 * f:\autoexec.tcl
 * g:\autoexec.tcl
+* l:\autoexec.tcl
+* z:\autoexec.tcl
+
+The ports have different values.
+For example:
+d:\autoexec.ash is the physical (sd card) location of the file
+
+z:\ is the ROMFS location (there is the directory 60x75 tha contains the BMPs screen pictures!)
+
+Here is used autoexec.ash, autoexec.tcl is totally unknown and misterious.
