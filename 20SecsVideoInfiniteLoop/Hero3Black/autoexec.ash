@@ -1,8 +1,6 @@
-sleep 3
-while true
-do
+sleep 1
 t app button shutter PR
 sleep 20
 t app button shutter PR
-sleep 2
-done 
+d:\autoexec.ash
+REBOOT yes
