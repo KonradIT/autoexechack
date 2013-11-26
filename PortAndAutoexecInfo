@@ -1,0 +1,22 @@
+PORTS AND AUTOEXEC
+===================
+
+i found these in all firmware bin files for all cameras.
+
+* a:\autoexec.ash
+* b:\autoexec.ash
+* c:\autoexec.ash
+* d:\autoexec.ash
+* e:\autoexec.ash
+* f:\autoexec.ash
+* g:\autoexec.ash
+
+Now, here comes the surprise:
+
+* a:\autoexec.tcl
+* b:\autoexec.tcl
+* c:\autoexec.tcl
+* d:\autoexec.tcl
+* e:\autoexec.tcl
+* f:\autoexec.tcl
+* g:\autoexec.tcl
