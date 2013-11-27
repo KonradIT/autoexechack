@@ -1,0 +1,4 @@
+Burst Loop
+
+The hack is: wait X secs, shoot a burst in desired rate and all over again (infinite loop)
+REMEMBER: Change X by the number in seconds between each burst that you want.
