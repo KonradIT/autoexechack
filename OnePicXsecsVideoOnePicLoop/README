@@ -1,0 +1,9 @@
+OnePicXsecsVideoOnePicLoop
+==========================
+
+The hack will take one pic, shoot for X seconds, take another pic, wait Y seconds and all over again (loop)
+
+REMEMBER: 
+* Change X by the duration of the recording you want in seconds
+* Change Y by the interval between each 2nd picture taken.
+         
