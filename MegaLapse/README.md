@@ -5,7 +5,7 @@ YEAH!!!!!
 
 Timelapses of 5 min, 20 min… interval??? YES!!!
 
-MegaLapse is the tool for making long timelapses using hihger intervals such as 2 mins to 45 mins.
+MegaLapse is the tool for making long timelapses using higher intervals such as 2 mins to 45 mins.
 
 
 It works with the HERO3 black and the HERO3+ Black
