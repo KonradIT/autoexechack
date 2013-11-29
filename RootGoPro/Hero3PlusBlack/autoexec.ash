@@ -1,0 +1,3 @@
+/#whoami
+root
+/#
