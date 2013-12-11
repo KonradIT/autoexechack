@@ -1,10 +1,8 @@
-sleep 2
-t app appmode video
+t ia2 -raw on
+sleep 1
+t app appmode photo
 sleep 1
 t app button shutter PR
-sleep X
-t app button shutter PR
-sleep 3
-t app button power P
-sleep 2
-t app button power R
+sleep 1
+d:\autoexec.ash
+REBOOT yes
