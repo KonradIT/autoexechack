@@ -1,4 +1,4 @@
-t ia2 -raw on
+t cal -raw 7 X 
 sleep 1
 t app appmode photo
 sleep 1
