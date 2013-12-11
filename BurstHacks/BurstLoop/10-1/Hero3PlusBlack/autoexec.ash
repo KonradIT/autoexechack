@@ -7,4 +7,4 @@ t app button shutter PR
 sleep 9
 t app appmode photo_burst
 d.\autoexec.ash
-REBOOt yess
+REBOOt yes
