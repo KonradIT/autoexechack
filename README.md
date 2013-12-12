@@ -6,7 +6,9 @@ autoexec hack
 YEAH! Lets hack GoPro cameras using autoexec!
 
 NOTE: Physical commands (button, appmode, etc...) ONLY FOR HERO3 BLACK AND HERO3+ BLACK CAMERAS.
+
 Linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) FOR ALL CAMERAS (HERO2, HERO3 WHITE / SILVER / BLACK, HERO3+ BLACK / SILVER)
+
 Hope next HERO4 camera can read the commands also, and bring us new interesting commands.
 
 USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN TO YOUR CAMERA!!!
