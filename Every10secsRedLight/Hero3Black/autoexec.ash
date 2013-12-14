@@ -1,4 +1,4 @@
-sleep 1
+sleep 10
 t app led red_front on
 sleep 3
 t app led red_front off
