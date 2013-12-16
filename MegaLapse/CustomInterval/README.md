@@ -18,6 +18,7 @@ TABLE
 * 25 min = 1500 secs
 * 30 min = 1800 secs
 * 45 min = 2700 secs
+<----From here, in my gopro didnt work---->
 * 1 hour = 3600 secs
 * 2 hours = 7200 secs
 * 3 hours = 10800 secs
