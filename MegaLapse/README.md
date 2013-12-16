@@ -14,6 +14,11 @@ If you want to save battery, choose the folder BlankScreenToSaveBattery, because
 
 I recommend to use this hack with a modified usb cable to fit in the housing, because the battery wont last too long.
 
+Installation:
+-------------
+
+Just download the autoexec.ash and copy it to the root of the sd, where DCIM and MISC are. Make sure the .ash ending is not corrupted or your browser has changed the file extension to other ending.
+
 Info:
 -----
 
