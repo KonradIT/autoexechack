@@ -34,6 +34,8 @@ Publications/Reviews
 
 * [ISO1200](http://www.iso1200.com/2013/12/megalapse-gopro-hack-for-shooting-long.html)
 
+* [DIYPhotography](http://www.diyphotography.net/gopro-firmware-hack-megalapse-allows-gopro-time-lapse-tweaking)
+
 * [FSTOPPERS](http://fstoppers.com/megalapse-the-gopro-hack-for-shooting-long-timelapses)
 
 Thanks
