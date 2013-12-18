@@ -1,3 +1,2 @@
 sleep 1
-t app button wifi
-
+t app button wifi PR
