@@ -8,7 +8,9 @@ Timelapses of 5 min, 20 min… interval??? YES!!!
 MegaLapse is the tool for making long timelapses using higher intervals such as 2 mins to 45 mins.
 
 
-It works with the HERO3 black and the HERO3+ Black
+It works with the HERO3 black,HERO3+ Black and HERO3 Plus Silver cameras: The strings from the HERO3 Black/HERO3+Black firmware that make MegaLapse work were in the firmware of the HERO3 Plus Silver, I dont own a HERO3 Plus Silver, If you own one, please test MegaLapse :) If works, send me an [email](mailto:mail@chernowii.com).
+
+
 
 If you want to save battery, choose the folder BlankScreenToSaveBattery, because it displays a blank screen.
 
