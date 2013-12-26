@@ -24,6 +24,11 @@ HERO3 Black and HERO3+ Black
 =============================
 Every folder has a `Hero3Black` subfolder, where the file for the Hero3Black camera is, and a `Hero3BlackPlus` subfolder, where the file for the Hero3+Black camera is.
 
+HERO2
+------
+
+I added a HERO2 folder where there are some autoexecs for the HERO2 camera: [Go to the HERO2 folder](https://github.com/KonradIT/autoexechack/tree/GoPro/HERO2Autoexec)
+
 SEE ALSO:
 ========
 
