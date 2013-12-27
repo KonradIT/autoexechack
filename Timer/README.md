@@ -8,3 +8,4 @@ So, I made a hack that will bright the led you choose for 5 seconds, then a stop
 You can choose the led position you want by going to the folder that has the name of that led, there you can download the hack.
 
 REMEMBER: Set Photo to Default Mode, otherwise it wont work.
+------------------------------------------------------------
