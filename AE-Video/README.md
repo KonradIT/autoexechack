@@ -3,4 +3,6 @@ AE Video
 
 AE for video.
 
-It will start recording inmediatly after turned on.
+Turn on cam, wait 3 secs, hit rec button
+
+REMEMBER: Video must be set to default mode!
