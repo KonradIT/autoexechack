@@ -9,6 +9,6 @@ REMEMBER:
 ---------
 * When turning the cam on, wait 3 seconds until press the record button ( is to let the effect apply)
 * Make sure your GoPro is set Video to Default mode.
-* If you click the rec button to finish a video, then turn cam off and turn it on si the effect is still there.
+* If you click the rec button to finish a video, then turn cam off and turn it on so the effect is still there.
 
 
