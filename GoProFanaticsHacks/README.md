@@ -1,6 +1,6 @@
 GoProFanatics.com Hacks
 ======================
-![GPF](gof-logo.png)
+![GPF](gpf-logo.png)
 
 Hacks from the incredible users of this awesome forum!
 
