@@ -1,5 +1,5 @@
 # Testing Effect Modes
-# Made By Stefan [maui] with help from Konrad Iturbe : http://chernowii.com#
+# Made By Stefan [maui] with help from Konrad Iturbe : http://konradit.github.io/chernowii.github.io/hack.html#
 # Posted on GoProFanatics.com
 sleep 2
 t app fp_show 4
@@ -25,14 +25,14 @@ t app appmode photo
 sleep 2
 t app fp_show 4
 sleep 1
-t app fp_string 'NO Effect'
+t app fp_string 'NO     Effect'
 sleep 1
 t app button shutter PR
 #
 sleep 2
 t app fp_show 4
 sleep 1
-t app fp_string 'Art Effect'
+t app fp_string 'Art    Effect'
 sleep 1
 t cal -de 1
 sleep 1
@@ -41,7 +41,7 @@ t app button shutter PR
 sleep 2
 t app fp_show 4
 sleep 1
-t app fp_string 'Sepia Effect'
+t app fp_string 'Sepia  Effect'
 sleep 1
 t cal -de 2
 sleep 1
@@ -59,7 +59,7 @@ t app button shutter PR
 sleep 2
 t app fp_show 4
 sleep 1
-t app fp_string 'Black White Effect'
+t app fp_string 'Black  White  Effect'
 sleep 1
 t cal -de 4
 sleep 1
@@ -68,7 +68,7 @@ t app button shutter PR
 sleep 2
 t app fp_show 4
 sleep 1
-t app fp_string 'Vivid Effect'
+t app fp_string 'Vivid  Effect'
 sleep 1
 t cal -de 5
 sleep 1
@@ -86,7 +86,7 @@ t app button shutter PR
 sleep 2
 t app fp_show 4
 sleep 1
-t app fp_string 'Punk Effect'
+t app fp_string 'Punk   Effect'
 sleep 1
 t cal -de 7
 sleep 1
