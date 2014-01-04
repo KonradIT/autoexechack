@@ -1,2 +1,4 @@
 sleep 1
-t cal -3a 1 0 1 1
+t app appmode photo
+sleep 1
+t app button shutter PR
