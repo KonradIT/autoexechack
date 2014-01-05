@@ -4,20 +4,22 @@ t app pes_settings 1
 t app button shutter PR
 sleep 300
 t app button shutter PR
-sleep 1
+sleep 5
 t app pes_settings 5
 t app button shutter PR
 sleep 900
 t app button shutter PR
-sleep 1
+sleep 5
 t app pes_settings 10
 t app button shutter PR
 sleep 1400
 t app button shutter PR
-sleep 1
+sleep 5
 t app pes_settings 30
 t app button shutter PR
 sleep 2300
 t app button shutter PR
-d:\autoexec.ash
-REBOOT yes
+sleep 3
+t app fp_show 4
+sleep 2
+t app fp_string "finished"
