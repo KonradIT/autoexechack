@@ -5,6 +5,7 @@ autoexec hack
 
 Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit). ALL HACKS HERE WILL VOID THE WARRANTY OF THE CAMERA
 
+:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
 
 NOTE: Physical commands (button, appmode, etc...) and linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR HERO3 BLACK, HERO3+ BLACK and HERO3+ Silver.
 
