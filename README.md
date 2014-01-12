@@ -1,7 +1,7 @@
 autoexec hack
 ============
 
-![HERO4](lightning.png)
+![HERO4](lightning.jpg)
 
 Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit). ALL HACKS HERE WILL VOID THE WARRANTY OF THE CAMERA
 
