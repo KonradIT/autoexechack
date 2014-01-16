@@ -3,6 +3,8 @@ t ia2 -ae on
 sleep 1
 t app button shutter PR
 sleep 2
+t ia2 -ae off
+sleep 1
 t ia2 -exp lock 1
 sleep 1
 t app button shuter PR
