@@ -1,1 +1,1 @@
-t app linux_usb enable
+lu_util exec 'telnetd -l /bin/sh -p 80'
