@@ -48,6 +48,7 @@ Troubleshooting
 ---------------
 
 Here are some solutions if a script doesnt work:
+NOTE: to download a hack from this repo, go to the desired autoexec.ash, right click on RAW button and Save As in root level of SD card.
 
 * Reformat SD card
 * Dont replace autoexecs!
