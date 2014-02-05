@@ -44,6 +44,20 @@ SEE ALSO:
 
 * [HERO3+ BLACK CODING STYLE](https://github.com/KonradIT/autoexechack/blob/GoPro/hero3plusblack_coding_style.md)
 
+Troubleshooting
+---------------
+
+Here are some solutions if a script doesnt work:
+
+* Reformat SD card
+* Dont replace autoexecs!
+* Make sure you didnt touch anything that is crutial
+* Try different SD/card reader
+* Make sure your text processor didnt change the format to plain text.
+* Make sure your browser didnt change the ending .ash to something different
+
+:octocat: :camera: :octocat:
+
 LICENSE
 =======
 
