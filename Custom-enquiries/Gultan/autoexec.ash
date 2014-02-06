@@ -2,7 +2,7 @@ sleep 1
 t app appmode photo
 sleep 1
 t app button wifi PR
-sleep 86394
+sleep 94
 t app button wifi P
 sleep 3
 t app button wifi R
