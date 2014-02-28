@@ -19,6 +19,7 @@ USING AUTOEXEC
 ===============
 * Download the hacks avaible here.
 * Use the guides to build your own hacks.
+* [Check this howto](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf/#file-autoexechack-md)
 * [Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
 HERO3 Black and HERO3+ Black
@@ -44,20 +45,6 @@ SEE ALSO:
 
 * [HERO3+ BLACK CODING STYLE](https://github.com/KonradIT/autoexechack/blob/GoPro/hero3plusblack_coding_style.md)
 
-Troubleshooting
----------------
-
-Here are some solutions if a script doesnt work:
-NOTE: to download a hack from this repo, go to the desired autoexec.ash, right click on RAW button and Save As in root level of SD card.
-
-* Reformat SD card
-* Dont replace autoexecs!
-* Make sure you didnt touch anything that is crutial
-* Try different SD/card reader
-* Make sure your text processor didnt change the format to plain text.
-* Make sure your browser didnt change the ending .ash to something different
-
-:octocat: :camera: :octocat:
 
 LICENSE
 =======
