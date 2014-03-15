@@ -15,10 +15,7 @@ If you want to save battery, choose the folder BlankScreenToSaveBattery, because
 
 I recommend to use this hack with a modified usb cable to fit in the housing, because the battery wont last too long.
 
-Installation:
--------------
-
-Just download the autoexec.ash and copy it to the root of the sd, where DCIM and MISC are. Make sure the .ash ending is not corrupted or your browser has changed the file extension to other ending.
+[###Installation](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf#file-autoexechack-md)
 
 Info:
 -----
@@ -33,19 +30,12 @@ Videos
 
 [Overview of MegaLapse](https://vimeo.com/80211428)
 
-Publications/Reviews
----------------------
+###Publications/Reviews
 
-* [printscreen.hu](http://printscreen.hu/feltort-gopro-kamerakkal-mar-mega-lapse-video-is-keszitheto)
+[See who had written about megalapse](https://gist.github.com/KonradIT/9444548)
 
-* [ISO1200](http://www.iso1200.com/2013/12/megalapse-gopro-hack-for-shooting-long.html)
+###Thanks
 
-* [DIYPhotography](http://www.diyphotography.net/gopro-firmware-hack-megalapse-allows-gopro-time-lapse-tweaking)
-
-* [FSTOPPERS](http://fstoppers.com/megalapse-the-gopro-hack-for-shooting-long-timelapses)
-
-Thanks
--------
 
 Thanks to [Peter Jennings](http://cam-do.com)
 
