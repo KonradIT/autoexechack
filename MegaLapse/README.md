@@ -1,7 +1,6 @@
 MegaLapse
 ============
 
-YEAH!!!!!
 
 Timelapses of 5 min, 20 min… interval??? YES!!!
 
