@@ -15,7 +15,7 @@ If you want to save battery, choose the folder BlankScreenToSaveBattery, because
 
 I recommend to use this hack with a modified usb cable to fit in the housing, because the battery wont last too long.
 
-[###Installation](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf#file-autoexechack-md)
+[#Installation](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf#file-autoexechack-md)
 
 Info:
 -----
