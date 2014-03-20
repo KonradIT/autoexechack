@@ -36,5 +36,4 @@ Videos
 ###Thanks
 
 
-Thanks to [Peter Jennings](http://cam-do.com)
-
+Thanks to [Peter Jennings](http://cam-do.com) and Lancelot Tintignies
