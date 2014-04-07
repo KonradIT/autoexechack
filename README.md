@@ -36,6 +36,12 @@ HERO3 + Silver
 
 All the physical commands and Linux commands works with the HERO3 + Silver
 
+#Hero3 Silver 
+[go here for hero3 silver hacks](https://github.com/KonradIT/autoexechack/tree/GoPro/Hero3Silver)
+
+#Hero3 White
+[go here for hero3 white hacks](https://github.com/KonradIT/autoexechack/tree/GoPro/Hero3White)
+
 SEE ALSO:
 ========
 
