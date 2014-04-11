@@ -1,6 +1,6 @@
 ##The MIT License (MIT, spelled as meat)
 
-#####Copyright (c) 2014 to 2048 Konrad Iturbe (GitHub: @konradit | Twitter: (http://twitter.com/konrad_it)[konrad_it] | Web: http://chernowii.com )
+#####Copyright (c) 2014 to 2048 Konrad Iturbe (GitHub: @konradit - Twitter: [https://twitter.com/konrad_it](konrad_it) - Web: http://chernowii.com )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
