@@ -2,9 +2,9 @@ MegaLapse
 ============
 
 
-Timelapses of 5 min, 20 min… interval???
+GoPro Timelapses of 5 min, 20 min… interval???
 
-MegaLapse is the tool for making long timelapses using higher intervals such as 2 mins to 45 mins.
+MegaLapse is the tool for making long timelapses with GoPro using higher intervals such as 2 mins to 45 mins.
 
 #####It works with the HERO3 Black, HERO3+ Black, HERO3+ Silver, HERO3 Silver, HERO3 White and HERO2 cameras
 
