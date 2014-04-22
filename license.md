@@ -1,4 +1,4 @@
-##The MIT License (MIT, spelled as in meat)
+##The MIT License
 
 #####Copyright (c) 2014 to 2048 Konrad Iturbe GitHub: [@konradit](http://github.com/konradit) - Twitter: [@konrad_it](http://twitter.com/konrad_it) - Web: http://chernowii.com
 
