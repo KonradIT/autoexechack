@@ -7,9 +7,7 @@ Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hac
 
 :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
 
-NOTE: Physical commands (button, appmode, etc...) and linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR HERO3 BLACK, HERO3+ BLACK and HERO3+ Silver.
-
-Linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR ALL CAMERAS (HERO2, HERO3 WHITE / SILVER / BLACK, HERO3+ BLACK / SILVER)
+NOTE: Physical commands (button, appmode, etc...) and linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR HERO3 BLACK, HERO3+ BLACK and HERO3+ Silver.  Linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR ALL CAMERAS (HERO2, HERO3 WHITE / SILVER / BLACK, HERO3+ BLACK / SILVER)
 
 Hope next HERO4 camera can read the commands also, and bring us new interesting commands.
 
@@ -72,6 +70,8 @@ Donate
 
 Donate for all the effort and hard work I do here.
 
-[eur](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=xzvRRl1F77J6j1KZ6rDfWOFg1FGXikvhFAOZsvyuYEvRwrcKHF2OSnrh-iK&dispatch=5885d80a13c0db1f8e263663d3faee8def8934b92a630e40b7fef61ab7e9fe63)
+[eur](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=GeAHCR1ZbxcqamUIjlysEww21ymcq16I6_RzUbdExGmEwcCAn1myy-HiAgG&dispatch=5885d80a13c0db1f8e263663d3faee8db315373d882600b51a5edf961ea39639)
 
-[usd](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=Tshee-GpFUZlApx4t09KN5o12D5XQbapLvF_2fCoPacE1SOZ81J5RxGXI9K&dispatch=5885d80a13c0db1f8e263663d3faee8def8934b92a630e40b7fef61ab7e9fe63)
+[usd](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=NJGVbD3Lgkb7z2WL_UPDU2HH-ZuqrKj03buyP6y_RJpxWcyN9z6YCUMDnJ8&dispatch=5885d80a13c0db1f8e263663d3faee8db315373d882600b51a5edf961ea39639)
+
+You can also donate in my website.
