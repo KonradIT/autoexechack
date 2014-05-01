@@ -1,2 +1,1 @@
-sleep 1
-t ia2 -fisheye disable
+t ia2 -fisheye 1 65536 65536 65536 65536 100
