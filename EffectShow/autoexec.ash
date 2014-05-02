@@ -23,6 +23,6 @@ sleep 1
 t cal -de 11
 sleep 1
 t cal -de 12
-sleep 1
+sleep 0.6
 d:\autoexec.ash
 reboot yes
