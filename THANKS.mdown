@@ -3,7 +3,7 @@ I want to say thanks to the following people because of the tests they did, the 
 * Bill Roberston: donated me 50$
 * Taner YILDIRIM: donated me 20$
 * Maurizio Costa: donated me 10$
-* Carolina Andrea: donated me 10$
+* Carolina Andrea: donated me 5$
 * Peter Jennings: supplied informations about how autoexec.ash behaves on Hero3 Plus Black
 * Evilwombat: supplied information about the screen, camera modes, wifi, shutter, root shell, and telnetd
 * Lancelot Tintignies: tested the hacks with his Hero3 silver
