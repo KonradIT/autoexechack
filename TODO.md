@@ -1,6 +1,5 @@
 #TO DO list
 
-- [X] Fisheye removal
 - [ ] 3040x3040 @ 22FPS (As seen in Eye mirror)
 - [ ] Video Timestamp
 - [ ] if command integration
