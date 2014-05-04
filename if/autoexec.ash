@@ -1,1 +1,2 @@
-if [ t app button shutter PR ]; then t app led red_front on
+if [ true ]; then 
+t app led red_front on
