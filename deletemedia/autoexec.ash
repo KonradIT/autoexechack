@@ -1,7 +1,7 @@
-sleep 2
+sleep 4
 t app button shutter PR
-sleep 9
+sleep 15
 t app button shutter PR
-sleep 3
+sleep 10
 deletedir d:\DCIM
 reboot yes
