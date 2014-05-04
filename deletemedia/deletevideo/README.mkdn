@@ -2,7 +2,7 @@
 
 Turn on the camera, and it will record X second video and delete it, and loop. This can be useful to save the last X seconds.
 
-[Video demo here]()
+[Video demo here](https://vimeo.com/93833294)
 
 ####Howto
 
