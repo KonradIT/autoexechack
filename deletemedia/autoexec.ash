@@ -1,2 +1,2 @@
 sleep 3
-deletedir DCIM
+deletedir d:\DCIM
