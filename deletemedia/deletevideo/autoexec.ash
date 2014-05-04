@@ -1,6 +1,6 @@
 sleep 4
 t app button shutter PR
-sleep 15
+sleep X
 t app button shutter PR
 sleep 2
 t app led red_front on
