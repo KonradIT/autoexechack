@@ -5,7 +5,7 @@
 - [ ] if command integration
 - [ ] WiFi blue led
 - [ ] Make the SD readable while recording via USB
-- [X] remove media to avoid card to be full
+- [x] remove media to avoid card to be full
 - [ ] C scripts integration
 - [ ] 35 photos burst
 - [ ] Make the SD hackable for hero3 plus black cameras
