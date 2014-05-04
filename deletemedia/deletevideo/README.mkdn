@@ -1,0 +1,9 @@
+#Delete Video Loop
+
+Turn on the camera, and it will record X second video and delete it, and loop. This can be useful to save the last X seconds.
+
+[Video demo here]()
+
+####Howto
+
+Download the autoexec.ash found in this directory, open it in a code editor such as Notepad++, and replace the X by the duration of each video ***in seconds***
