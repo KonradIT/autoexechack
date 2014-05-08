@@ -1,8 +1,8 @@
 #Delete Video Loop
 
-Turn on the camera, and it will record X second video and delete it, and loop. This can be useful to save the last X seconds.
+Turn on the camera, and it will record X second video, wait 10 seconds with the front led bright (the 10 seconds are used so a software or someone retrieves the video via WiFi) and delete the video, and loop. This can be useful to save the last X seconds.
 
-[Video demo here](https://vimeo.com/93833294)
+[HERO3 Black Video demo here](https://vimeo.com/93833294)
 
 ####Howto
 
