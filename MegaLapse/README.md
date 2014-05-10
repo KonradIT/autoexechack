@@ -19,11 +19,6 @@ Info:
 
 Get in touch: [MAIL ME](mailto:mail@chernowii.com)
 
-Videos
--------
-[8 days at 3 mins interval](https://vimeo.com/81871611)
-
-[Overview of MegaLapse](https://vimeo.com/80211428)
 
 ###Publications/Reviews
 
@@ -32,4 +27,4 @@ Videos
 ###Thanks
 
 
-Thanks to [Peter Jennings](http://cam-do.com), H4N and Lancelot Tintignies
+Thanks to Peter Jennings, H4N, Jason Anderson and Lancelot Tintignies
