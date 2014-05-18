@@ -1,6 +1,6 @@
 sleep 4
 t gpio 43 sw out0
-sleep 2
+sleep 4
 t gpio 37 sw out0
 sleep 10
 t gpio 37 sw out1
