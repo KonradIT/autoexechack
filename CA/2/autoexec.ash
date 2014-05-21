@@ -1,4 +1,1 @@
-t ia2 -ca 0
-t app button shutter PR
-sleep 10
-t app button shutter PR
+t ia2 -3a 1 1 1 1
