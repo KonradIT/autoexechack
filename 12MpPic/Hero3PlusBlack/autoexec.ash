@@ -1,4 +1,3 @@
-sleep 3
 t app appmode photo
 sleep 2
 t app photo_size 12W
