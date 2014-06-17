@@ -6,6 +6,8 @@ autoexec hack
 
 Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit). ALL HACKS HERE WILL VOID THE WARRANTY OF THE CAMERA
 
+Just download the autoexec.ash file you will find in the folders and save the file in the root of the SD, insert SD back and turn on the camera, the hack will execute on boot.
+
 It supports all the GoPro HERO cameras, but, some commands work with certain cameras:
 * <b>t app</b>: works with HERO3 Black, HERO3+Black, HERO3+Silver
 * <b>t gpio</b>: works with HERO3 Silver, White and HERO2
