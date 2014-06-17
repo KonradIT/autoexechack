@@ -1,24 +1,23 @@
 autoexec hack
 ============
 
-#####USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN TO YOUR CAMERA!!!
-![HERO4](lightning.jpg) ![GPLogo](http://i.imgur.com/HqgKvb6.jpg?1)
+####USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN TO YOUR CAMERA!!!
+![GPLogo](http://i.imgur.com/HqgKvb6.jpg?1)
 
 Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit). ALL HACKS HERE WILL VOID THE WARRANTY OF THE CAMERA
 
-:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
-
-NOTE: Physical commands (button, appmode, etc...) and linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR HERO3 BLACK, HERO3+ BLACK and HERO3+ Silver.  Linux commands (linux_usb enable, d:\autoexec.ash REBOOT yes, etc...) WORKS FOR ALL CAMERAS (HERO2, HERO3 WHITE / SILVER / BLACK, HERO3+ BLACK / SILVER)
+It supports all the GoPro HERO cameras, but, some commands work with certain cameras:
+* <b>t app</b>: works with HERO3 Black, HERO3+Black, HERO3+Silver
+* <b>t gpio</b>: works with HERO3 Silver, White and HERO2
+* <b>reboot yes and non-t commands</b>: all cameras
 
 Hope next HERO4 camera can read the commands also, and bring us new interesting commands.
 
+##How to use autoexechack: 
 
-
-USING AUTOEXEC
-===============
 * Download the hacks avaible here.
 * Use the guides to build your own hacks.
-* [Check this howto](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf/#file-autoexechack-md)
+* [Check this howto if you have problems with autoexechack](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf/#file-autoexechack-md)
 * [Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
 HERO3 Black and HERO3+ Black
@@ -41,25 +40,10 @@ All the physical commands and Linux commands works with the HERO3 + Silver
 #Hero3 White
 [go here for hero3 white hacks](https://github.com/KonradIT/autoexechack/tree/GoPro/Hero3White)
 
-SEE ALSO:
-========
 
-* [GoPro RTOS Commands](https://github.com/KonradIT/autoexechack/blob/GoPro/commands.md)
+###LICENSE
 
-* [TESTING COMMANDS](https://github.com/KonradIT/autoexechack/blob/GoPro/testingcommands.md)
-
-* [HERO3+ BLACK CODING STYLE](https://github.com/KonradIT/autoexechack/blob/GoPro/hero3plusblack_coding_style.md)
-
-
-LICENSE
-=======
-
-This scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
-
-Branches
---------
-
-The Default branch of this repo is “GoPro“.
+These scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
 
 INFO
 ====
