@@ -1,5 +1,7 @@
 #Secure Hack
 
+###Update: DO NOT USE THIS HACK! MY CAMERA CANNOT READ HACKS FROM THE SD! UPDATES COMING SOON!!!
+
 Hacks provided here work only if you keep the autoexec.ash file on the SD. The hacks are not permanent.
 But... there is a way to hack the GoPro permanently, that can be used when you need to switch SDs, or for people who delete their content using the Delete all option from the gopro.
 Using this way, the hack is inside the GoPro, not the SD.
