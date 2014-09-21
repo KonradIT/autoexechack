@@ -8,7 +8,7 @@ open it in notepad++ or notepad or textedit or brackets or whatever and change P
 
 To write the exposure time you need to write a number that will capture the time given for the number, the table below will address it:
 
-Value (file) | Exposure Time (seconds)
+Value (number to write in hack file) | Exposure Time (seconds)
 -------------|--------------------------------
 5            | 7,7
 15           | 7,3
