@@ -1,1 +1,1 @@
-t ia2 -dzoom 0 1 500
+t ia2 -dzoom 0 1 400
