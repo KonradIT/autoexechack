@@ -13,7 +13,7 @@ It supports all the GoPro HERO cameras, but, some commands work with certain cam
 * <b>t gpio</b>: works with HERO3 Silver, White and HERO2
 * <b>reboot yes and non-t commands</b>: all cameras
 
-Hope next HERO4 camera can read the commands also, and bring us new interesting commands.
+**NOTE: I will update this project when my HERO4 Black arrives,  Evilwombat said autoexec.ash is down**
 
 ##How to use autoexechack: 
 
