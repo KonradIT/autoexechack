@@ -12,8 +12,7 @@ It supports all the GoPro HERO cameras, but, some commands work with certain cam
 * <b>t app</b>: works with HERO3 Black, HERO3+Black, HERO3+Silver
 * <b>t gpio</b>: works with HERO3 Silver, White and HERO2
 * <b>reboot yes and non-t commands</b>: all cameras
-
-**NOTE: I will update this project when my HERO4 Black arrives,  Evilwombat said autoexec.ash is down**
+* GoPro HERO4 supports linux commands and custom A9 commands
 
 ##How to use autoexechack: 
 
@@ -55,10 +54,4 @@ INFO
 Donate
 -------
 
-Donate for all the effort and hard work I do here.
-
-[eur](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=GeAHCR1ZbxcqamUIjlysEww21ymcq16I6_RzUbdExGmEwcCAn1myy-HiAgG&dispatch=5885d80a13c0db1f8e263663d3faee8db315373d882600b51a5edf961ea39639)
-
-[usd](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=NJGVbD3Lgkb7z2WL_UPDU2HH-ZuqrKj03buyP6y_RJpxWcyN9z6YCUMDnJ8&dispatch=5885d80a13c0db1f8e263663d3faee8db315373d882600b51a5edf961ea39639)
-
-You can also donate in my website.
+http://chernowii.com
