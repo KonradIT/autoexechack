@@ -14,4 +14,4 @@ Then just save the hack in the SD card, turn the camera on and ut will automatic
 
 High Exposure 1.0 |Low exposure -1.0|Normal Exposure 0|Result
 ------------------|-----------------|-----------------|------
-[Imgur image](http://i.imgur.com/VcSd7Oe.jpg)|[Imgur image](http://i.imgur.com/LpZ6hEG.jpg)|[Imgur image](http://i.imgur.com/2Mtd7JY.jpg)|coming soon
+[Imgur image](http://i.imgur.com/VcSd7Oe.jpg)|[Imgur image](http://i.imgur.com/LpZ6hEG.jpg)|[Imgur image](http://i.imgur.com/2Mtd7JY.jpg)|[Imgur image](http://i.imgur.com/38a5vPD.jpg)
