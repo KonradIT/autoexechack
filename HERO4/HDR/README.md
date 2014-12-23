@@ -2,7 +2,7 @@
 
 #####FW v3
 
-The new camera supports Protune 2.0 in photo mode, the Protune 2.0 now features EV compensation (-2.0,-1.5,-1.0,-0.5,0,0.5,1.0,1.5,2.0). Unrotunately it does not include a HDR feature for bracketing.
+The new camera supports Protune 2.0 in photo mode, the Protune 2.0 now features EV compensation (-2.0,-1.5,-1.0,-0.5,0,0.5,1.0,1.5,2.0). Unfortunately it does not include a HDR feature for bracketing.
 
 ###How to
 
