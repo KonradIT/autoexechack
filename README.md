@@ -1,14 +1,13 @@
-autoexec hack
+AutoexecHack
 ============
 
-####USE THE TOOLS AT YOUR OWN RISK, I TAKE NO RESPONSABILITY OF WHAT IT MIGHT HAPPEN TO YOUR CAMERA!!!
-![GPLogo](http://i.imgur.com/HqgKvb6.jpg?1)
+Making GoPro cameras exactly that, Pro cameras.
 
-Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit). ALL HACKS HERE WILL VOID THE WARRANTY OF THE CAMERA
+Autoexec hack is a copilation of autoexec.ash executable hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit). ALL HACKS HERE WILL VOID THE WARRANTY OF THE CAMERA
 
-Just download the autoexec.ash file you will find in the folders and save the file in the root of the SD, insert SD back and turn on the camera, the hack will execute on boot.
+Just download the autoexec.ash file you will find in the folders and save the file in the root of the SD, insert SD back and turn on the camera, the hack will execute on boot. This is like some 80s autorun DOS fun hacking. Just in the XXI century.
 
-It supports all the GoPro HERO cameras, but, some commands work with certain cameras:
+It supports all the GoPro HERO cameras (see list), but, some commands work with certain cameras:
 * <b>t app</b>: works with HERO3 Black, HERO3+Black, HERO3+Silver
 * <b>t gpio</b>: works with HERO3 Silver, White and HERO2
 * <b>reboot yes and non-t commands</b>: all cameras
@@ -21,26 +20,19 @@ It supports all the GoPro HERO cameras, but, some commands work with certain cam
 * [Check this howto if you have problems with autoexechack](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf/#file-autoexechack-md)
 * [Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
-HERO3 Black and HERO3+ Black
-=============================
-Every folder has a `Hero3Black` subfolder, where the file for the Hero3Black camera is, and a `Hero3BlackPlus` subfolder, where the file for the Hero3+Black camera is.
+##Cameras supported:
 
-HERO2
-------
-
-I added a HERO2 folder where there are some autoexecs for the HERO2 camera: [Go to the HERO2 folder](https://github.com/KonradIT/autoexechack/tree/GoPro/HERO2Autoexec) GoPro HERO2 cam uses GPIO commands.
-
-HERO3 + Silver
----------------
-
-All the physical commands and Linux commands works with the HERO3 + Silver
-
-#Hero3 Silver 
-[go here for hero3 silver hacks](https://github.com/KonradIT/autoexechack/tree/GoPro/Hero3Silver)
-
-#Hero3 White
-[go here for hero3 white hacks](https://github.com/KonradIT/autoexechack/tree/GoPro/Hero3White)
-
+* HERO2
+* HERO3 White
+* HERO3 Silver
+* HERO3 Black
+* HERO3+Silver
+* HERO3+Black
+* HERO2014
+* HERO4 Black (w/ supported fw)
+* HERO4 Silver (w/ supported fw)
+* HERO+LCD possibly
+* 
 
 ###LICENSE
 
