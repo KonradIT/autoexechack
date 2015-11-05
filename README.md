@@ -28,11 +28,15 @@ It supports all the GoPro HERO cameras (see list), but, some commands work with 
 * HERO3 Black
 * HERO3+Silver
 * HERO3+Black
-* HERO2014
-* HERO4 Black (w/ supported fw)
-* HERO4 Silver (w/ supported fw)
-* HERO+LCD possibly
-* 
+* HERO 2014
+* HERO+LCD
+* HERO+
+
+##Unsupported cameras:
+
+* HERO4 Black (autoexec.ash only runs with leaked firmware)
+* HERO4 Silver (see black)
+* HERO4 Session (works with first firmware, the one with no settings)
 
 ###LICENSE
 
