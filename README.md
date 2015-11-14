@@ -38,6 +38,8 @@ It supports all the GoPro HERO cameras (see list), but, some commands work with 
 * HERO4 Silver (see black)
 * HERO4 Session (works with first firmware, the one with no settings)
 
+But, thanks to a modded firmware now the GoPro HERO4 camera supports autoexecutable shell file: http://github.com/konradit/overridehack
+
 ###LICENSE
 
 These scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
