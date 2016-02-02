@@ -9,15 +9,15 @@ t ia2 -ae still_exp 100 1700 #1/1250 sec
 t app button shutter PR
 sleep 2
 #
-t ia2 -ae still_exp 100 1655
+t ia2 -ae still_exp 100 1655 #1/1000 sec 
 t app button shutter PR
 sleep 2
 #
-t ia2 -ae still_exp 100 1615
+t ia2 -ae still_exp 100 1615 #1/800 sec 
 t app button shutter PR
 sleep 2
 #
-t ia2 -ae still_exp 100 1575
+t ia2 -ae still_exp 100 1575 #1/640 sec 
 t app button shutter PR
 sleep 2
 #
@@ -29,7 +29,7 @@ t ia2 -ae still_exp 100 1490 #1/400 sec
 t app button shutter PR
 sleep 2
 #
-t ia2 -ae still_exp 100 1450
+t ia2 -ae still_exp 100 1450 #1/320 sec 
 t app button shutter PR
 sleep 2
 #
@@ -59,3 +59,28 @@ sleep 2
 #
 t ia2 -ae still_exp 100 1150 #1/60 sec
 t app button shutter PR
+sleep 2
+#
+t ia2 -ae still_exp 100 1100
+t app button shutter PR
+sleep 2
+#
+t ia2 -ae still_exp 100 1050
+t app button shutter PR
+sleep 2
+#
+t ia2 -ae still_exp 100 1000
+t app button shutter PR
+sleep 2
+#
+t ia2 -ae still_exp 100 950
+t app button shutter PR
+sleep 2
+#
+t ia2 -ae still_exp 100 900
+t app button shutter PR
+sleep 2
+#
+t ia2 -ae still_exp 100 850
+t app button shutter PR
+sleep 2
