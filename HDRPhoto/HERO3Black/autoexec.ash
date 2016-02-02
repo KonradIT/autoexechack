@@ -1,16 +1,7 @@
 t app appmode photo
-t ia2 -af SHARPNESS
-t ia2 -af sst
-#
-t ia2 -ae still_exp 100 2000
-t app button shutter PR
 sleep 1
 #
-t ia2 -ae still_exp 100 1900
-t app button shutter PR
-sleep 1
-#
-t ia2 -ae still_exp 100 1800
+t ia2 -ae still_exp 100 1850
 t app button shutter PR
 sleep 1
 #
@@ -18,7 +9,7 @@ t ia2 -ae still_exp 100 1700
 t app button shutter PR
 sleep 1
 #
-t ia2 -ae still_exp 100 1600
+t ia2 -ae still_exp 100 1650
 t app button shutter PR
 sleep 1
 #
@@ -38,5 +29,5 @@ t ia2 -ae still_exp 100 1200
 t app button shutter PR
 sleep 1
 #
-t ia2 -ae still_exp 100 1100
+t ia2 -ae still_exp 100 1150
 t app button shutter PR
