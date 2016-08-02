@@ -6,7 +6,7 @@ Choose the duration you want, click a folder, click autoexec.ash, right click on
 
 SimpleLoop will do the simplest of functionality. Record, delete, repeat. Make sure you get to your recorded file and turn off your GoPro before that second part.
 
-With the new functionality in the more advanced versions, the previous clips will be stored in appropriate folders in DCIM.
+With the new functionality in the more advanced versions (work in progress, or maybe I should say "totally broken"), the previous clips will be stored in appropriate folders in DCIM.
   * For the two minute script, up to 5 clips are saved in the "loop"
   * For the five minute script, up to 3 clips are saved in the "loop"
   * For the tem minute script, up to 2 clips are saved in the "loop"
