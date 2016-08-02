@@ -1,4 +1,4 @@
-sleep 5
+sleep 2
 t app key record
 sleep 600
 t app key record
