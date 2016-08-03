@@ -17,6 +17,6 @@ mv d:\pastloopedrecordings\2minbefore\* d:\pastloopedrecordings\4minbefore\
 sleep 5
 deletedir d:\pastloopedrecordings\2minbefore
 mkdir d:\pastloopedrecordings\2minbefore
-mv d:\pastloopedrecordings\* d:\pastloopedrecordings\2minbefore\
+mv d:\DCIM\* d:\pastloopedrecordings\2minbefore\
 sleep 5
 reboot yes
