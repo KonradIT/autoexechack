@@ -1,7 +1,7 @@
 sleep 2
 t app key record
-sleep 295
+sleep 297
 t app key record
-sleep 3
+sleep 1
 deletedir d:\DCIM
 reboot yes
