@@ -1,6 +1,6 @@
 sleep 2
 t app key record
-sleep 300
+sleep 287
 t app key record
 sleep 1
 deletedir d:\DCIM\10minbefore
