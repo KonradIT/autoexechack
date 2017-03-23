@@ -1,4 +1,4 @@
-#NightPhoto for the HERO 2014
+#NightPhoto for the HERO 2014 (Currently Broken)
 
 Yes, thats right. Take those long exposure photos with your GoPro HERO 2014 ($129).
 
