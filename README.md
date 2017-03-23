@@ -13,14 +13,14 @@ It supports all the GoPro HERO cameras (see list), but, some commands work with 
 * <b>reboot yes and non-t commands</b>: all cameras
 * GoPro HERO4 supports linux commands and custom A9 commands
 
-##How to use autoexechack: 
+## How to use autoexechack: 
 
 * Download the hacks avaible here.
 * Use the guides to build your own hacks.
 * [Check this howto if you have problems with autoexechack](https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf/#file-autoexechack-md)
 * [Contact me](mailto:mail@chernowii.com) if you want a custom script.
 
-##Cameras supported:
+## Cameras supported:
 
 * HERO2
 * HERO3 White
@@ -32,7 +32,7 @@ It supports all the GoPro HERO cameras (see list), but, some commands work with 
 * HERO+LCD
 * HERO+
 
-##Unsupported cameras:
+## Unsupported cameras:
 
 * HERO4 Black (autoexec.ash only runs with leaked firmware)
 * HERO4 Silver (see black)
@@ -40,7 +40,7 @@ It supports all the GoPro HERO cameras (see list), but, some commands work with 
 
 But, thanks to a modded firmware now the GoPro HERO4 camera supports autoexecutable shell file: http://github.com/konradit/overridehack
 
-###LICENSE
+## #LICENSE
 
 These scripts can be modified, remixed, tweaked and redistributed :) Feel free to use them as you want.
 
