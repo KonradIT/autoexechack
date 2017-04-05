@@ -1,1 +1,1 @@
-t ia2 -exp lock 1
+t ia2 -exp lock 10
