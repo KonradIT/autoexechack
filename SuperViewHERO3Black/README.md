@@ -1,8 +1,7 @@
 SuperView Mode on HERO3 Black / HERO3 / Silver!
 ===============================================
 
-Dont have a HERO3 + black, but have a HERO3 Black or HERO + Silver and WANT TO HAVE SUPERVIEW??
-Use this hack to SuperView your videos in your HERO3 Black.
+Use this hack to SuperView your videos in your HERO3 Black, HERO3 + Black also supported.
 When you turn the cam on, wait 2 seconds and press the rec button.
 
 REMEMBER: Set Video to Default Mode.
